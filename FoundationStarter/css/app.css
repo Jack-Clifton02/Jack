@@ -1,8 +1,46 @@
-body {
-  color: Black;
+
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+  color: darkblue;
 }
 
-p {
-  color: white;
-}
+h2 {font-family: 'Oswald', sans-serif; text-align: center; font-weight: bold;
+color: darkred; }
 
+
+body {background-color: sandybrown;}
+
+.grid-container-fluid.introBox { background-color: whitesmoke;
+    margin: 15px; padding: 5px; border: 10px solid black;
+}
+caption {ont-family: 'Oswald', sans-serif; text-align: center; font-weight: bold;
+color: darkred;}
+a {font-family: 'Oswald', sans-serif;}
+
+.grid-container-fluid {padding: 5px; border: 10px solid black}
+
+h4 {
+	font-family: 'Oswald', sans-serif;
+  color: black; }
+
+  P {font-family: 'Oswald', sans-serif;
+
+  }
+
+h6 {font-family: 'Oswald', sans-serif; color: darkgrey;}
+
+table {border-collapse: collapse; 
+            width: 100%; padding: 10px;
+        font-family: 'Oswald', sans-serif; color: black;}
+        
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+  color: darkblue;
+}
