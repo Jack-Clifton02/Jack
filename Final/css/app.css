@@ -1,8 +1,9 @@
 
 
+
 h1 {
 	font-family: 'Dhurjati', sans-serif;
-  color: gold; text-decoration: underline;
+  color: gold;
 }
 
 .responsive-iframe {
@@ -15,7 +16,7 @@ h4 {font-family: 'Oswald', sans-serif; text-align: center; font-weight: bold;
 color: darkred; }
 
 
-body {background-color: white}
+body {background-color: white;}
 
 .grid-container-fluid.introBox { background-color: black;
     margin: 15px; padding: 5px; border: 10px solid red;
